@@ -1,0 +1,364 @@
+fault_data.lo: fault_data.c ../../include/sandesha2_fault_data.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_utils_defines.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.2/include/stddef.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.2/include/stdint.h \
+  /usr/include/stdint.h /usr/include/sys/_types/_int8_t.h \
+  /usr/include/sys/_types/_int16_t.h /usr/include/sys/_types/_int32_t.h \
+  /usr/include/sys/_types/_int64_t.h /usr/include/_types/_uint8_t.h \
+  /usr/include/_types/_uint16_t.h /usr/include/_types/_uint32_t.h \
+  /usr/include/_types/_uint64_t.h /usr/include/sys/_types.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/sys/_pthread/_pthread_types.h \
+  /usr/include/sys/_types/_intptr_t.h \
+  /usr/include/sys/_types/_uintptr_t.h /usr/include/_types/_intmax_t.h \
+  /usr/include/_types/_uintmax_t.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_env.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_allocator.h \
+  /usr/include/stdlib.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/_types.h \
+  /usr/include/sys/wait.h /usr/include/sys/_types/_pid_t.h \
+  /usr/include/sys/_types/_id_t.h /usr/include/sys/signal.h \
+  /usr/include/sys/appleapiopts.h /usr/include/machine/signal.h \
+  /usr/include/i386/signal.h /usr/include/machine/_mcontext.h \
+  /usr/include/i386/_mcontext.h /usr/include/mach/i386/_structs.h \
+  /usr/include/sys/_pthread/_pthread_attr_t.h \
+  /usr/include/sys/_types/_sigaltstack.h \
+  /usr/include/sys/_types/_ucontext.h \
+  /usr/include/sys/_types/_sigset_t.h /usr/include/sys/_types/_size_t.h \
+  /usr/include/sys/_types/_uid_t.h /usr/include/sys/resource.h \
+  /usr/include/sys/_types/_timeval.h /usr/include/machine/endian.h \
+  /usr/include/i386/endian.h /usr/include/sys/_endian.h \
+  /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h \
+  /usr/include/sys/_types/_ct_rune_t.h /usr/include/sys/_types/_rune_t.h \
+  /usr/include/sys/_types/_wchar_t.h /usr/include/sys/_types/_null.h \
+  /usr/include/machine/types.h /usr/include/i386/types.h \
+  /usr/include/sys/_types/_dev_t.h /usr/include/sys/_types/_mode_t.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_error.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_log.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_thread_pool.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_thread.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_conf_ctx.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_defines.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_hash.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_ctx.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_property.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_utils.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_date_time.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_base64_binary.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_base64.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_svc_grp_ctx.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_svc_ctx.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_op_ctx.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_msg_ctx.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_relates_to.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_const.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_param.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_array_list.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_handler_desc.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_qname.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_string.h \
+  /usr/include/string.h /usr/include/sys/_types/_ssize_t.h \
+  /usr/include/strings.h /usr/include/secure/_string.h \
+  /usr/include/secure/_common.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_param_container.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_phase_rule.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_handler.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_stream.h \
+  /usr/include/stdio.h /usr/include/sys/_types/_va_list.h \
+  /usr/include/sys/stdio.h /usr/include/sys/_types/_off_t.h \
+  /usr/include/secure/_stdio.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_msg_info_headers.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_endpoint_ref.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_any_content_type.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_svc_name.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/axiom/include/axiom_node.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/axiom/include/axiom_attribute.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/axiom/include/axiom_namespace.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/axiom/include/axiom_output.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/axiom/include/axiom_xml_writer.h \
+  /Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/axiom/include/axiom_defines.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_op.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_svc.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_flow_container.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_flow.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_svc_grp.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_desc.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_description.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_phase_resolver.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_phase.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_module_desc.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_conf.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_transport_in_desc.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_phase_meta.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_transport_out_desc.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_transport_sender.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_phases_info.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_msg_recv.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_svc_skeleton.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_svr_callback.h \
+  /usr/local/axis2c/include/axis2-1.6.0/axis2_phase_holder.h \
+  ../../include/sandesha2_constants.h
+
+../../include/sandesha2_fault_data.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_utils_defines.h:
+
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.2/include/stddef.h:
+
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.2/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/sys/_types/_int8_t.h:
+
+/usr/include/sys/_types/_int16_t.h:
+
+/usr/include/sys/_types/_int32_t.h:
+
+/usr/include/sys/_types/_int64_t.h:
+
+/usr/include/_types/_uint8_t.h:
+
+/usr/include/_types/_uint16_t.h:
+
+/usr/include/_types/_uint32_t.h:
+
+/usr/include/_types/_uint64_t.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_symbol_aliasing.h:
+
+/usr/include/sys/_posix_availability.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/i386/_types.h:
+
+/usr/include/sys/_pthread/_pthread_types.h:
+
+/usr/include/sys/_types/_intptr_t.h:
+
+/usr/include/sys/_types/_uintptr_t.h:
+
+/usr/include/_types/_intmax_t.h:
+
+/usr/include/_types/_uintmax_t.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_env.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_allocator.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/Availability.h:
+
+/usr/include/AvailabilityInternal.h:
+
+/usr/include/_types.h:
+
+/usr/include/sys/wait.h:
+
+/usr/include/sys/_types/_pid_t.h:
+
+/usr/include/sys/_types/_id_t.h:
+
+/usr/include/sys/signal.h:
+
+/usr/include/sys/appleapiopts.h:
+
+/usr/include/machine/signal.h:
+
+/usr/include/i386/signal.h:
+
+/usr/include/machine/_mcontext.h:
+
+/usr/include/i386/_mcontext.h:
+
+/usr/include/mach/i386/_structs.h:
+
+/usr/include/sys/_pthread/_pthread_attr_t.h:
+
+/usr/include/sys/_types/_sigaltstack.h:
+
+/usr/include/sys/_types/_ucontext.h:
+
+/usr/include/sys/_types/_sigset_t.h:
+
+/usr/include/sys/_types/_size_t.h:
+
+/usr/include/sys/_types/_uid_t.h:
+
+/usr/include/sys/resource.h:
+
+/usr/include/sys/_types/_timeval.h:
+
+/usr/include/machine/endian.h:
+
+/usr/include/i386/endian.h:
+
+/usr/include/sys/_endian.h:
+
+/usr/include/libkern/_OSByteOrder.h:
+
+/usr/include/libkern/i386/_OSByteOrder.h:
+
+/usr/include/alloca.h:
+
+/usr/include/sys/_types/_ct_rune_t.h:
+
+/usr/include/sys/_types/_rune_t.h:
+
+/usr/include/sys/_types/_wchar_t.h:
+
+/usr/include/sys/_types/_null.h:
+
+/usr/include/machine/types.h:
+
+/usr/include/i386/types.h:
+
+/usr/include/sys/_types/_dev_t.h:
+
+/usr/include/sys/_types/_mode_t.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_error.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_log.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_thread_pool.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_thread.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_conf_ctx.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_defines.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_hash.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_ctx.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_property.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_utils.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_date_time.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_base64_binary.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_base64.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_svc_grp_ctx.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_svc_ctx.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_op_ctx.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_msg_ctx.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_relates_to.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_const.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_param.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_array_list.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_handler_desc.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_qname.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_string.h:
+
+/usr/include/string.h:
+
+/usr/include/sys/_types/_ssize_t.h:
+
+/usr/include/strings.h:
+
+/usr/include/secure/_string.h:
+
+/usr/include/secure/_common.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_param_container.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_phase_rule.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_handler.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/util/include/axutil_stream.h:
+
+/usr/include/stdio.h:
+
+/usr/include/sys/_types/_va_list.h:
+
+/usr/include/sys/stdio.h:
+
+/usr/include/sys/_types/_off_t.h:
+
+/usr/include/secure/_stdio.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_msg_info_headers.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_endpoint_ref.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_any_content_type.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_svc_name.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/axiom/include/axiom_node.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/axiom/include/axiom_attribute.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/axiom/include/axiom_namespace.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/axiom/include/axiom_output.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/axiom/include/axiom_xml_writer.h:
+
+/Users/agruet/ktws/src/sandesha2c/../axis2c-unofficial/axiom/include/axiom_defines.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_op.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_svc.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_flow_container.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_flow.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_svc_grp.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_desc.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_description.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_phase_resolver.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_phase.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_module_desc.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_conf.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_transport_in_desc.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_phase_meta.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_transport_out_desc.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_transport_sender.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_phases_info.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_msg_recv.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_svc_skeleton.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_svr_callback.h:
+
+/usr/local/axis2c/include/axis2-1.6.0/axis2_phase_holder.h:
+
+../../include/sandesha2_constants.h:
